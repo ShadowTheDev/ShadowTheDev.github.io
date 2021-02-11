@@ -285,7 +285,7 @@ body.light .UpdInfo-im{
   background-origin: border-box;
   background-clip: content-box,border-box;
 }
-body.light .nav ul li{
+  body.light .nav ul li{
   list-style: none;
   margin: 0 20px;
   color: #b2b1b1;
